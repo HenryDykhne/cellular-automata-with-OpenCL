@@ -152,13 +152,13 @@ int main(int argc, char *argv[]) {
     }
 
     if(numKernels < 1 || numKernels > 10) {
-        printf("Must have at least 1 and 10 kernels\n");
+        printf("Must have at least 1 to 10 kernels\n");
         exit(1);
     } else if(sideLength < 0) {
         printf("Must have side length greater than 10\n");
         exit(1);
     } else if(numKernels < 0 || numKernels > 4) {
-        printf("Must have initial configuration between 0 and 4 inclusive");
+        printf("Must have initial configuration between 0 and 4 inclusive\n");
         exit(1);
     }
     /* OpenCL structures */
