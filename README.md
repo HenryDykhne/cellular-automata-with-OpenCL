@@ -1,5 +1,6 @@
 # cis3090a5
-
+Name: Eli-Henry Dykhne
+Student Number: 0996524
 ## Compile 
 with `make`
 

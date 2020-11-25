@@ -1,3 +1,6 @@
+//Name: Eli-Henry Dykhne
+//Student Number: 0996524
+
 #define PROGRAM_FILE "a5.cl"
 #define KERNEL_FUNC "a5"
 
