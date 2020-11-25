@@ -1,3 +1,5 @@
+//Name: Eli-Henry Dykhne
+//Student Number: 0996524
 bool rule30(char a, char b, char c) {
     bool alive = false;
     if((a != ' ' && b == ' ' && c == ' ') || (a == ' ' && b != ' ' && c != ' ') || (a == ' ' && b != ' ' && c == ' ') || (a == ' ' && b == ' ' && c != ' ')) {
