@@ -1,6 +1,4 @@
-# cis3090a5
-Name: Eli-Henry Dykhne
-Student Number: 0996524
+# cellular-automata-with-OpenCL
 ## Compile 
 with `make`
 
@@ -19,6 +17,7 @@ The default number of kernels is 1. The default size of the array is 20. The ini
 The initial configuration patterns and associated command line numbers for the array are:
 
 # Command
+```
 Line       | Initial  | Pattern
 Parameter  | Pattern  | Name
 -------------------------------
@@ -27,3 +26,4 @@ Parameter  | Pattern  | Name
 2          | "XXXXXX" |  Spider
 3          | "X XXX"  |  Glider
 4          | "XXXXXXX"|  Face
+```
